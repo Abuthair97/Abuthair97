@@ -10,7 +10,7 @@ Enthusiastic engineering graduate with basic knowledge in coding and design. Pro
 * 🖥️  See my portfolio at [Abuthair](http://abuthair.github.io/AbuthairPortfolio/)
 * ✉️  You can contact me at [abuthair.pc@gmail.com](mailto:abuthair.pc@gmail.com)
 * 🧠  I'm learning Angular , SpringBoot
-* 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects as a developer
+* 🤝  I'm open to collaborating on interesting projects as a developer
 * ⚡  I'm secretly Spiderman🕸️... but don't tell anyone
 
 <a href="https://www.github.com/Abuthair97" target="_blank" rel="noreferrer"><img

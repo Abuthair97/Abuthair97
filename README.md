@@ -10,8 +10,8 @@ Enthusiastic engineering graduate with basic knowledge in coding and design. Pro
 * 🖥️  See my portfolio at [Abuthair](http://abuthair.github.io/AbuthairPortfolio/)
 * ✉️  You can contact me at [abuthair.pc@gmail.com](mailto:abuthair.pc@gmail.com)
 * 🧠  I'm learning Angular , SpringBoot
-* 🤝  I'm open to collaborating on interesting projects as a developer
-* ⚡  I'm secretly Spiderman🕸️... but don't tell anyone
+* 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects as a developer
+* ⚡  I'm secretly Spiderman... but don't tell anyone
 
 <a href="https://www.github.com/Abuthair97" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Abuthair97?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -39,6 +39,7 @@ src="https://img.shields.io/github/followers/Abuthair97?logo=github&style=for-th
 ### Badges
 
 <b>My GitHub Stats</b>
+
 <a href="http://www.github.com/Abuthair97"><img src="https://github-readme-stats.vercel.app/api?username=Abuthair97&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abuthair97's GitHub stats" /></a>
 
 <a href="http://www.github.com/Abuthair97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abuthair97&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

@@ -11,7 +11,7 @@ Enthusiastic engineering graduate with basic knowledge in coding and design. Pro
 * ✉️  You can contact me at [abuthair.pc@gmail.com](mailto:abuthair.pc@gmail.com)
 * 🧠  I'm learning Angular , SpringBoot
 * 🤝  I'm open to collaborating on I'm open to collaborating on interesting projects as a developer
-* ⚡  I'm secretly Spiderman... but don't tell anyone
+* ⚡  I'm secretly Spiderman🕸️... but don't tell anyone
 
 <a href="https://www.github.com/Abuthair97" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Abuthair97?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
